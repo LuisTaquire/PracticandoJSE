@@ -1,0 +1,6 @@
+base de datos 
+tablas
+relaciones
+consultas
+ 2 como minimo de cada tipo trabajdo en clase
+adjuntar un doc de word o de drive y describir las consultas qque estoy haciendo y las tablas que eh usado
